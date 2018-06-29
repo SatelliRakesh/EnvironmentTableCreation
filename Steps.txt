@@ -1,0 +1,4 @@
+Before all, the script files should be modified as functions, so, they should be executed with source command.
+
+The main file is fun.sh and the function is MainFunction
+It takes the target environment as the input in the format "targetEnvName-ID"
